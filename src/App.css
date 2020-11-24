@@ -1,3 +1,25 @@
 body{
   background-color: black;
 }
+.vision{
+  text-align: center;
+}
+.vision-heading{
+  color: white;
+  margin: 25px auto;
+}
+.vision-para{
+  color: white;
+  margin: 15px auto;
+}
+.mission{
+  text-align: center;
+}
+.mission-heading{
+  color: white;
+  margin: 25px auto;
+}
+.mission-para{
+  color: white;
+  margin: 15px auto;
+}
